@@ -8,9 +8,9 @@ The main code is written for JupyterLab execution.
 # Prerequisites/Installation
 
 ## Packages required:
-* matplotlib
-* astropy
-* ccdproc
+* matplotlib (and associated packages)
+* astropy (and associated packages)
+* ccdproc (and associated packages)
 
 ## Additional Installation:
 Visual Basic Studio (for ccdproc)
